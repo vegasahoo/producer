@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+#Kafka Properties
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      topic: test
+      kafka-partitions: 3
