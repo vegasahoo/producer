@@ -1,5 +1,6 @@
-package com.satya.pdservice.kafka;
+package com.satya.pdservice.kafka.publisher;
 
+import com.satya.pdservice.kafka.util.PublisherProperties;
 import com.satya.pdservice.model.Product;
 import org.apache.kafka.clients.producer.KafkaProducer;
 import org.apache.kafka.clients.producer.ProducerRecord;

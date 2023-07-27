@@ -1,4 +1,4 @@
-package com.satya.pdservice.kafka;
+package com.satya.pdservice.kafka.util;
 
 import lombok.Getter;
 import lombok.Setter;

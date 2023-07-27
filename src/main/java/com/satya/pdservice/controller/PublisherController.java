@@ -1,6 +1,6 @@
 package com.satya.pdservice.controller;
 
-import com.satya.pdservice.kafka.Publisher;
+import com.satya.pdservice.kafka.publisher.Publisher;
 import com.satya.pdservice.model.Product;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
